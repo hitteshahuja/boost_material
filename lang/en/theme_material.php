@@ -6,3 +6,4 @@
  * Time: 16:16
  */
 $string['pluginname'] = 'Material Theme';
+$string['test'];
